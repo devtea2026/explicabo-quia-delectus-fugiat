@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/explicabo-quia-delectus-fugiat",
-  "version": "3.5.44",
+  "version": "3.5.45",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -655,5 +655,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/explicabo-quia-delectus-fugiat/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
